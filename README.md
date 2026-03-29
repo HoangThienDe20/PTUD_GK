@@ -1,5 +1,9 @@
 # 📝 Quiz App - Fullstack
 
+pip install fastapi uvicorn sqlalchemy python-jose
+
+pip install --upgrade sqlalchemy
+
 Một ứng dụng trắc nghiệm đơn giản được xây dựng với **FastAPI** (Backend) và **React + Vite** (Frontend).
 
 ## ✨ Tính năng
